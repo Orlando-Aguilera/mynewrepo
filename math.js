@@ -5,3 +5,4 @@ function number(x) {
 function sum(x, y) {
   return x + y;
 }
+//Error on line
