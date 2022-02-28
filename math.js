@@ -4,5 +4,5 @@ function number(x) {
 }
 function sum(x, y) {
   return x + y;
+  //Error arreglado
 }
-//Error on line
